@@ -13,7 +13,7 @@ import (
 
 func main() {
 	// Define constants
-	const githubToken = "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" // Replace with your GitHub token
+	const githubToken = "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" // Replace with your GitHub token
 	const repoOwner = "yoqdev"                                     // Replace with your GitHub username
 	const repoName = "wael"                                        // Replace with your GitHub repository name
 	const filePath = "/home/w/GoSend/MyFiles.zip"                  // Replace with the path to your local file
